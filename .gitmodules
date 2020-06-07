@@ -1,0 +1,4 @@
+[submodule "lib/python-consul"]
+	path = lib/python-consul
+	url = https://github.com/cablehead/python-consul
+    branch = master
